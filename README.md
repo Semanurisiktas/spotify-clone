@@ -1,2 +1,4 @@
 # spotify-clone
-Spotify home page
+> Spotify home page
+
+<img src = "images\homepage.jpg">
